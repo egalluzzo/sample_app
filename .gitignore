@@ -14,5 +14,6 @@
 /log/*.log
 /tmp
 
-# Ignore backup files.
+# Ignore other unnecessary files.
 *~
+bundler_stubs/
